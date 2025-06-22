@@ -12,7 +12,6 @@ StayFinder is a full-stack web application for booking and hosting stays, inspir
 - **Search & Filter:** Search by city, title, or description; filter by price range or sort by price.
 - **Booking System:** Select check-in and check-out dates, view total price.
 - **Stripe Payments:** Secure online payments for bookings.
-- **Responsive UI:** Modern, mobile-friendly design.
 
 ---
 
