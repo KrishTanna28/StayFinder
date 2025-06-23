@@ -2,6 +2,8 @@
 
 StayFinder is a full-stack web application for booking and hosting stays, inspired by Airbnb. Users can browse, search, and filter listings, make bookings with date selection, and securely pay using Stripe. Hosts can create, edit, and manage their property listings.
 
+Video Link 👇
+
 https://drive.google.com/file/d/1MgmTJNDqyHHEsVDuODLjWIGY-UDRg_T1/view?usp=sharing
 
 ## Features
